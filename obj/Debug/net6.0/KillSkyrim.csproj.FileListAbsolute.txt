@@ -1,0 +1,14 @@
+C:\Users\dusty\source\repos\KillSkyrim\KillSkyrim\bin\Debug\net6.0\KillSkyrim.exe
+C:\Users\dusty\source\repos\KillSkyrim\KillSkyrim\bin\Debug\net6.0\KillSkyrim.deps.json
+C:\Users\dusty\source\repos\KillSkyrim\KillSkyrim\bin\Debug\net6.0\KillSkyrim.runtimeconfig.json
+C:\Users\dusty\source\repos\KillSkyrim\KillSkyrim\bin\Debug\net6.0\KillSkyrim.dll
+C:\Users\dusty\source\repos\KillSkyrim\KillSkyrim\bin\Debug\net6.0\KillSkyrim.pdb
+C:\Users\dusty\source\repos\KillSkyrim\KillSkyrim\obj\Debug\net6.0\KillSkyrim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dusty\source\repos\KillSkyrim\KillSkyrim\obj\Debug\net6.0\KillSkyrim.AssemblyInfoInputs.cache
+C:\Users\dusty\source\repos\KillSkyrim\KillSkyrim\obj\Debug\net6.0\KillSkyrim.AssemblyInfo.cs
+C:\Users\dusty\source\repos\KillSkyrim\KillSkyrim\obj\Debug\net6.0\KillSkyrim.csproj.CoreCompileInputs.cache
+C:\Users\dusty\source\repos\KillSkyrim\KillSkyrim\obj\Debug\net6.0\KillSkyrim.dll
+C:\Users\dusty\source\repos\KillSkyrim\KillSkyrim\obj\Debug\net6.0\refint\KillSkyrim.dll
+C:\Users\dusty\source\repos\KillSkyrim\KillSkyrim\obj\Debug\net6.0\KillSkyrim.pdb
+C:\Users\dusty\source\repos\KillSkyrim\KillSkyrim\obj\Debug\net6.0\KillSkyrim.genruntimeconfig.cache
+C:\Users\dusty\source\repos\KillSkyrim\KillSkyrim\obj\Debug\net6.0\ref\KillSkyrim.dll
